@@ -26,8 +26,5 @@ for AI agents, agent skills, AI-native growth tooling, and LLM-powered apps.
   owning your funnel with automated demand: growth strategies, AI SEO, GTM, and
   marketing agents. More about me at [mussiehaile.com](https://mussiehaile.com/).
 
-- Founder-track operator at [Guiding Ventures](https://guidingventures.com),
-  where I turn product theses into working software.
-
 **🌱 Working on AI products, agent skills, or AI-native growth? I'd love to
-compare notes — reach me on [LinkedIn](https://www.linkedin.com/in/muhaile/).**
+compare notes, reach me on [LinkedIn](https://www.linkedin.com/in/muhaile/).**
