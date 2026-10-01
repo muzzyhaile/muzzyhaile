@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mussie 👋</h1>
 
-I'm an AI Product Manager and fractional CMO who ships: 15 years building,
+I'm an AI Product Owner and fractional CMO who builds: 15 years building,
 marketing, and scaling digital products, now focused on AI products and the
 agentic toolchain around them.
 
